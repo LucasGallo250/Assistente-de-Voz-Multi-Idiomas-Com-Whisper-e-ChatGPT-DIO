@@ -1,6 +1,10 @@
-# Assistente de Voz Multi Idiomas Com Whisper e ChatGPT DIO
+# 🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
 
-🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-Whisper%20%7C%20ChatGPT-black)
+![Colab](https://img.shields.io/badge/Google-Colab-orange)
+
+Projeto desenvolvido durante o Bootcamp de IA e Dados da DIO.
 
 Este projeto implementa um Assistente de Voz Inteligente Multi-Idiomas, capaz de ouvir, compreender e responder ao usuário utilizando áudio, integrando tecnologias modernas de:
 
